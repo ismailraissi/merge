@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="07ffdde9-eac4-4de2-9705-6b45a8d6fed1" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/merge/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/merge/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -48,7 +47,7 @@
       <option name="presentableId" value="Default" />
       <updated>1589215272408</updated>
       <workItem from="1589215275697" duration="554000" />
-      <workItem from="1589216163958" duration="51000" />
+      <workItem from="1589216163958" duration="656000" />
     </task>
     <servers />
   </component>

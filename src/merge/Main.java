@@ -3,7 +3,8 @@ package merge;
 public class Main {
     public static void main(String[] args) {
 
-        int i = 7 ;
+        int i = 7
+                ;
     }
 }
 
